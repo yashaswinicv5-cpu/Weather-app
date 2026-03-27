@@ -1,0 +1,23 @@
+[
+    {
+        "city": "Bengaluru",
+        "temperature": 31.3,
+        "description": "few clouds",
+        "humidity": 29,
+        "wind_speed": 7.6
+    },
+    {
+        "city": "London",
+        "temperature": 11.83,
+        "description": "light rain",
+        "humidity": 79,
+        "wind_speed": 4.63
+    },
+    {
+        "city": "New York",
+        "temperature": 12.64,
+        "description": "overcast clouds",
+        "humidity": 64,
+        "wind_speed": 8.23
+    }
+]
